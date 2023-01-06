@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "57668849428",
+    "project_id": "e-titech",
+    "storage_bucket": "e-titech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57668849428:android:fddd1f7a239e4ecedb3c01",
+        "android_client_info": {
+          "package_name": "com.example.e_ticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57668849428-5q8r3idjol5ssf6hohep4ofprv9lgfbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYZfxd1BWjs8nmw0IJtvWp51HV6mGSp9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57668849428-5q8r3idjol5ssf6hohep4ofprv9lgfbd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
